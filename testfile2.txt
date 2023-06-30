@@ -1,0 +1,3 @@
+vi test
+
+commit 1
