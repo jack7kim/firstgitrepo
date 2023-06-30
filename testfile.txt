@@ -17,7 +17,11 @@ master fix
 
 
 developer2 fix 2
+<<<<<<< Updated upstream
 :wq
 
 
-stash test ver 1
+1.stash test ver 1
+
+2.stash test ver developer2
+
