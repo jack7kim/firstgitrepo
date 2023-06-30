@@ -8,3 +8,5 @@ test 3
 
 test 4
 >>>>>>> 5c977695185ba886e2d2532c592f06249a703449
+
+master fix
