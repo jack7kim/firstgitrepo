@@ -3,6 +3,7 @@ commit 1
 
 
 bug fix 1
+
 =======
 test 3
 
@@ -10,3 +11,10 @@ test 4
 >>>>>>> 5c977695185ba886e2d2532c592f06249a703449
 
 master fix
+=======
+
+
+
+
+developer2 fix 2
+:wq
